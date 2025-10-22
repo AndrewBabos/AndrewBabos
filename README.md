@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewbabos&label=Profile%20views&color=0e75b6&style=flat" alt="andrewbabos" /> </p>
 
-- 🔭 I’m currently working on [Blackjack-Qt](https://github.com/AndrewBabos/Blackjack-Qt)
+- 🔭 I’m currently working on [SystemMonitor](https://github.com/AndrewBabos/SystemMonitor)
 
 - 📫 How to reach me **andrewbaboswork@gmail.com**
 
